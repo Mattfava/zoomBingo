@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/zoomBingo/static/css/main.3373ffd7.chunk.css",
+    "main.js": "/zoomBingo/static/js/main.914bac27.chunk.js",
+    "main.js.map": "/zoomBingo/static/js/main.914bac27.chunk.js.map",
+    "runtime-main.js": "/zoomBingo/static/js/runtime-main.b8be31d1.js",
+    "runtime-main.js.map": "/zoomBingo/static/js/runtime-main.b8be31d1.js.map",
+    "static/css/2.081f420c.chunk.css": "/zoomBingo/static/css/2.081f420c.chunk.css",
+    "static/js/2.0c08b07b.chunk.js": "/zoomBingo/static/js/2.0c08b07b.chunk.js",
+    "static/js/2.0c08b07b.chunk.js.map": "/zoomBingo/static/js/2.0c08b07b.chunk.js.map",
+    "static/js/3.85bf03a2.chunk.js": "/zoomBingo/static/js/3.85bf03a2.chunk.js",
+    "static/js/3.85bf03a2.chunk.js.map": "/zoomBingo/static/js/3.85bf03a2.chunk.js.map",
+    "index.html": "/zoomBingo/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/zoomBingo/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.3373ffd7.chunk.css.map": "/zoomBingo/static/css/main.3373ffd7.chunk.css.map",
+    "static/js/2.0c08b07b.chunk.js.LICENSE.txt": "/zoomBingo/static/js/2.0c08b07b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8be31d1.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.0c08b07b.chunk.js",
+    "static/css/main.3373ffd7.chunk.css",
+    "static/js/main.914bac27.chunk.js"
+  ]
+}
