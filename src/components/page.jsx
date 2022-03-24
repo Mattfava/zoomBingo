@@ -25,9 +25,6 @@ class Page extends Component{
             <Hold/>
             </Col>
             <Col>
-            <Rectangle class = "topicButton" number ="Topic 1"/>
-            <Rectangle class = "topicButton2" number ="Topic 2"/>
-            <Rectangle class = "topicButton2" number ="Topic 3"/>
             </Col>
             </Row>
             </Container>
